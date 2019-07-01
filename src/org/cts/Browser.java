@@ -6,7 +6,7 @@ public class Browser {
     int a=10;
     if(a%2==0)
     {
-    	System.out.println("even");
+    	System.out.println("Even number");
     }
     else
     {
